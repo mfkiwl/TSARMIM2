@@ -9,4 +9,4 @@ The parameters of the 8 experimental groups are detailed in the paper.  <br>
 
 The required code for TSARMIM can be found in TEXBAT_ds2.rar.  <br>
 
-We modify the SDR (https://github.com/gnsscusdr/CU-SDR-Collection) for TSARMIM. See <modify for SDR>.
+We modify the SDR (https://github.com/gnsscusdr/CU-SDR-Collection) for TSARMIM. See 'modify for SDR'.
